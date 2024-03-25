@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 team: Panthers
 
 manager: Sebastian
@@ -7,3 +8,13 @@ members:
 - Stella
 - Anthony
 - Freddie
+=======
+team: Panthers
+
+manager: Sebastian
+
+members:
+- Violet
+- Stella
+- Anthony
+>>>>>>> a77ee03 (initial change)
